@@ -152,9 +152,9 @@ input {
   font-size: 0.8em;
 }
 
-.error-icon.visible {
+/* .error-icon.visible {
   display: inline-block;
-}
+} */
 
 .invalid {
   border-color: var(--red) !important;
